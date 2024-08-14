@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Welcome to My Academic Website
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am **Jesus Villota-Miranda**, PhD Candidate in Economics at **CEMFI** (Center for Moentary and Financial Studies)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I started my PhD in 2024, previously, I did my masters in Economics & Finance at CEMFI, and my Bachelors in Business at the University of La Rioja
 
-
-[jekyll-organization]: https://github.com/jekyll
+My research interests are in **Financial Machine Learning**, **Financial Econometrics** and **Asset Pricing**
