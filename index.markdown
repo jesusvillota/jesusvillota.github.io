@@ -1,11 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-
-# Welcome to My Academic Website
 
 - I am **Jesus Villota-Miranda**, PhD Candidate in Economics at **CEMFI** (Center for Moentary and Financial Studies).
 
